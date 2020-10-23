@@ -1,0 +1,38 @@
+button{
+    height: 27px;
+    width: 50px;
+    border-radius: 5px;
+}
+
+table{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+tr{
+    height: 40px;
+}
+
+td{
+    width: 55px;
+}
+
+.operacao{
+    background-color: grey;
+    color: white;
+}
+
+.valor {
+    background-color: black;
+	color: white;
+    font-style: bold;
+}
+
+#vis{
+    height: 20px;
+    width: 210px;
+    text-align: right;
+    border-radius: 5px;
+}
+
+
